@@ -4,7 +4,7 @@ CarrierWave.configure do |config|
     :aws_access_key_id      => ENV['AWS_ACCESS_KEY'],
     :aws_secret_access_key  => ENV['AWS_SECRET_KEY']
   }
-  config.fog_directory  = 'quartermaster'                     # required
+  config.fog_directory  = 'falling-quartermaster'                     # required
   
   #config.fog_host       = 'https://assets.example.com'            # optional, defaults to nil
   #config.fog_public     = false                                   # optional, defaults to true
