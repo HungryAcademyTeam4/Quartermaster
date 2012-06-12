@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  payload: MyString
+  posting_uid: MyString
+  name: MyString
+
+two:
+  payload: MyString
+  posting_uid: MyString
+  name: MyString
